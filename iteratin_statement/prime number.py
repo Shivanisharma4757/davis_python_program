@@ -23,3 +23,7 @@ else:
         print(num, "is a prime number")
     else:
         print(num, "is not a prime number")
+
+#output
+#Enter a number: 13
+#13 is a prime number
