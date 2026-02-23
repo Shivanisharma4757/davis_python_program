@@ -15,9 +15,9 @@ for i in range(n, 0, -1):
 
     print()  # Move to next line
 
-output
-123454321
- 1234321
-  12321
-   121
-    1
+#output
+#123454321
+# 1234321
+ # 12321
+ #  121
+  #  1
