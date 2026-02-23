@@ -33,3 +33,7 @@ else:
 
 # Displaying final tax
 print("Total Tax to Pay: ₹", tax)
+#output
+#Enter annual income: 200000
+#Enter age: 30
+#Total Tax to Pay: ₹ 0
