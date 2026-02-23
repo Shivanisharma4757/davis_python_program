@@ -15,7 +15,7 @@ for i in range(1, n + 1):
 
     print()  # Move to next line
 
-output
+#output
     1
    121
   12321
