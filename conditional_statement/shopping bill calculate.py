@@ -49,3 +49,19 @@ if num_items_input.isdigit():
 
 else:
     print("Error: Please enter a valid number of items.")
+
+#output
+#Enter number of items: 2
+
+#Item 1
+#Enter price of item: 100
+#Enter quantity: 2
+#Item Total: ₹ 200.0
+
+#Item 2
+#Enter price of item: 50
+#Enter quantity: 3
+#Item Total: ₹ 150.0
+
+#----- Final Bill -----
+#Total Amount to Pay: ₹ 350.0
