@@ -31,3 +31,8 @@ if radius_input.replace('.', '', 1).isdigit():
 
 else:
     print("Error: Please enter a valid numeric value.")
+    # output
+    # --- Circle Calculation ---
+    #Radius: 7.0
+    #Area of Circle: 153.94
+    #Perimeter (Circumference) of Circle: 43.98
