@@ -23,3 +23,10 @@ else:
     atm_cash -= withdraw_amount
     print("Withdrawal Successful!")
     print("Remaining Balance: ₹", balance)
+
+#output
+#Enter account balance: 75000
+#Enter withdrawal amount: 25000
+#Enter ATM available cash: 50000
+#Withdrawal Successful!
+#Remaining Balance: ₹ 50000.0
