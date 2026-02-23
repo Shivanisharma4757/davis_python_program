@@ -31,14 +31,14 @@ for i in range(n - 1, 0, -1):
 
     print()  # Move to next line
 
-output
+#output
 
-    A
-   ABA
-  ABCBA
- ABCDCBA
-ABCDEDCBA
- ABCDCBA
-  ABCBA
-   ABA
-    A
+   # A
+   #ABA
+ # ABCBA
+# ABCDCBA
+#ABCDEDCBA
+ #ABCDCBA
+ # ABCBA
+  # ABA
+   # A
