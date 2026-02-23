@@ -7,9 +7,9 @@ for i in range(1, n + 1):
     # Print stars
     print('*' * i)
 
-output
-    *
-   **
-  ***
- ****
-*****
+#output
+ #   *
+  # **
+  #***
+ #****
+#*****
