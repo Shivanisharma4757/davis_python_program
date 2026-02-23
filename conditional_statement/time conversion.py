@@ -35,3 +35,11 @@ if seconds_input.isdigit():
 
 else:
     print("Error: Please enter a valid positive integer.")
+
+#output
+#Enter total seconds: 3665
+
+#----- Time Conversion -----
+#Hours: 1
+#Minutes: 1
+#Seconds: 5
