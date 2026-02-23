@@ -6,9 +6,9 @@ for i in range(n, 0, -1):
         print(chr(65 + j), end='')  # 65 is ASCII of 'A'
     print()  # Move to next line
 
-output
-ABCDE
-ABCD
-ABC
-AB
-A
+#output
+#ABCDE
+#ABCD
+#ABC
+#AB
+#A
