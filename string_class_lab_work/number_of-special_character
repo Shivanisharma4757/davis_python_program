@@ -1,0 +1,15 @@
+# Program to count special characters in a sentence
+
+sentence = input("Enter a sentence: ")
+
+special_count = 0
+
+for char in sentence:
+    if not char.isalnum() and not char.isspace():
+        special_count += 1
+
+print("Number of special characters:", special_count)
+
+# output
+# Enter a sentence: hello@1# world$23
+# Number of special characters: 3
