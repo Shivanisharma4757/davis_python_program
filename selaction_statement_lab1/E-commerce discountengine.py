@@ -33,3 +33,9 @@ final_amount = cart_value - (cart_value * discount / 100)
 # Display results
 print("Highest Discount Applied:", discount, "%")
 print("Final Payable Amount: ₹", final_amount)
+#output
+#Enter cart value: 15000
+#Enter membership (Silver/Gold/Platinum): gold
+#Is it festival season? (yes/no): yes
+#Highest Discount Applied: 30 %
+#Final Payable Amount: ₹ 10500.0
