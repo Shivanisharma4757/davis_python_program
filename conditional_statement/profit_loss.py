@@ -39,3 +39,9 @@ if cost_price_input.replace('.', '', 1).isdigit() and selling_price_input.replac
 
 else:
     print("Error: Please enter valid numeric values.")
+#output
+#Enter Cost Price: 1000
+#Enter Selling Price: 1200
+
+#Profit: ₹ 200.0
+#Profit Percentage: 20.0 %
