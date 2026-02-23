@@ -20,3 +20,6 @@ if original == reverse:
     print(original, "is a palindrome number")
 else:
     print(original, "is not a palindrome number")
+#output
+#Enter a number: 121
+#121 is a palindrome number
